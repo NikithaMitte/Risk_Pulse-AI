@@ -1,5 +1,0 @@
-backend
-backend/**
-*.py
-requirements.txt
-render.yaml
