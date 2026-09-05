@@ -15,7 +15,7 @@ services:
         fromService:
           type: web
           name: riskpulse-frontend
-          property: url
+          property: host
 
   # Frontend React Static Site
   - type: web
